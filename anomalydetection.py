@@ -103,7 +103,7 @@ if predictions is not None:
         else:
             print("Anomaly map not found in prediction.")
 
-"""# Evaluation"""
+"""# Testing"""
 
 ground_truths = []  # Store actual labels
 
